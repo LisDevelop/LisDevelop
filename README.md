@@ -9,12 +9,6 @@
 </div>
 
 <hr>
-
-## Quem sou eu?
-![teste](https://media.discordapp.net/attachments/1044869570764230677/1174911857790820423/rste.png)
-
-## E o que eu faço atualmente?
-![teste](https://media.discordapp.net/attachments/1044869570764230677/1174913433427247186/rstes.png)
 ## E minhas contribuições?
 - Se for contribuições do Santos Roleplay, estão todas documentadas na wikipédia que criei a algum tempo atrás, lá tem todas as informações relacionadas ao BOT e como funciona também as funções dentro do jogo.
 
