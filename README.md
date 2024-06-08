@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/920672997101166672/1234369288123449505/lisgd.png?ex=66307b7b&is=662f29fb&hm=9ea015afb499f4fa8f0cf5338c364a847e2c0a023fc8e32c0c7fecda59664238&=&format=webp&quality=lossless&width=570&height=108"> 
+  <img src="https://imgur.com/SOic12L.png"> 
 </p><div align="center">
   <h5>COPYRIGHT © LisGood LTDA. The progress and development.</h4>
 </div>
