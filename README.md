@@ -35,4 +35,5 @@
 </p><div align="right">
   <h3>Informações práticas</h4>
 </div>
+
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=LisDevelop&show_icons=true&locale=pt-br&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
