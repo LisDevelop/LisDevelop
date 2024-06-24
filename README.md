@@ -22,8 +22,6 @@
 
 - Cada área se difere ao seu desenvolvimento, mas estou principalmente focado no projeto da **LisStore** que deixa uma imersão agradável a todos que entrarem e participarem de tal. Nossa ideia na sua crição foi deixar o mais interessante ao cliente e tudo automatizado para evitarmos perturbações entre homem vs máquina, desejamos que a máquina assuma a posição de estruturação de respostas e suporte ao jogador com a mínima necessidade dos desenvolvedores intervirem, algo mais prático e que o próprio cliente consiga realizar as opções de mudanças, tanto confirmação de pagamento para compra ou renovação de planos. Enquanto isso, o projeto de modelagem tem o propósito oposto ao da empresa de BOTS, no projeto de modelagem queremos que tudo seja focado em auxiliar aqueles que querem aprender e vender nossos produtos de mapas, itens ou objetos para outros jogos que se inserem nas plataformas de games, principalmente da franquia do GTA.
 
-- **Santos Roleplay** deu-se início em meados de 2020 em um projeto de SAMP com a ideia de revolucionar o universo na qual ele iria ser inserido, que é: o SAMP. Mas, em 2023 que tivemos algumas intervenções e no fim, tivemos uma contribuição imersa por parte de algumas pessoas para que o projeto mudasse significamente e alterasse até mesmo sua própria plataforma de jogo, isto é, agora ele chegou para mudar a ideologia do univerdo do Multi Theft Auto (MTA). Planejamos ser o primeiro servidor que seja o mais imersivo possível e com uma proposta bem mais focada no realismo do universo roleplay de verdade, pegando a essência do roleplaying text-based e aplicando em uma plataforma tão escassa do mundo roleplay.
-
 <hr>
 
 ### E minhas contribuições?
